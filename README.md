@@ -5,7 +5,7 @@ I'm Hamza, a Full Stack Developer from Karachi, Pakistan.
 🔭 I’m currently working on designing and building my personal website
 🌱 I’m currently learning golang
 💬 Ask me about anything, I'm happy to help
-📫 How to reach me: rizwan.ahmed19@outlook.com
+📫 How to reach me: hamza.iqdev@gmail.com
 
 My stack:
 React Native, Flutter
