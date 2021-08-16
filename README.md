@@ -10,12 +10,12 @@
 - Alaways learning something new. Currently improving my GoLang and learning trignomentry and phyics in programming. Also have plans to learn Rust in future.
 - Also a very big fan of Rick and Morty.
 
-### Fine me @Hackerhgl
+### Find me @Hackerhgl
 
 <a href="https://www.linkedin.com/in/hackerhgl/" target="_blank">
   <img align="left" alt="Hamza's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/facebook/ target="_blank"">
+<a href="https://www.facebook.com/hackerhgl/" target="_blank">
   <img align="left" alt="Hamza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.reddit.com/user/hackerhgl/" target="_blank">
@@ -23,6 +23,7 @@
 </a>
 
 
+<br />
 <br />
 
 ![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hackerhgl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical)
