@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## I'm Hamza, a Full Stack Developer from Karachi, Pakistan.
+## I'm Hamza, a Full Stack Developer with more than four years of experience from Karachi, Pakistan.
 
-🔭 I’m currently working on designing and building my personal website.
+- I recently finished working on my <a href="hackerhgl-cv.web.app" href="_blank">web based resume </a>.
 <br />
 🌱 I’m currently learning golang
 <br />
