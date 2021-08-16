@@ -2,9 +2,11 @@
 
 ## I'm Hamza, a Full Stack Developer with more than four years of experience from Karachi, Pakistan.
 
-- I recently finished working on my <a href="hackerhgl-cv.web.app" href="_blank">web based resume </a>.
-- I am planning to build an real time communication open source project with WebRTC, Socket.IO, GoLang, React Native & React JS.
-- 
+### About me
+
+- Recently finished working on my <a href="hackerhgl-cv.web.app" href="_blank">web based resume </a>.
+- Working on an open source project featuring real time communication. I am constructing it with WebRTC, Socket.IO, GoLang, React Native and React JS.
+- Alaways learning something new. Currently improving my GoLang and learning trignomentry and phyics in programming. Also have plans to learn Rust in future.
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/hackerhgl">
