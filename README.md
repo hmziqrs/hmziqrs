@@ -4,7 +4,7 @@
 
 ### About me
 
-- Recently finished working on my <a href="hackerhgl-cv.web.app" href="_blank">web based resume </a>.
+- Recently finished working on my <a href="https://hackerhgl-cv.web.app" href="_blank">web based resume </a>.
 - Working on an open source project featuring real time communication. I am constructing it with WebRTC, Socket.IO, GoLang, React Native and React JS.
 - Alaways learning something new. Currently improving my GoLang and learning trignomentry and phyics in programming. Also have plans to learn Rust in future.
 
