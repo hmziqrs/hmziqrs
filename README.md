@@ -26,7 +26,7 @@ I'm Hamza, a Full Stack Developer from Karachi, Pakistan.
   <img align="left" alt="Rizwan's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rizwanahmed19.rizwanahmed19)
+![](https://visitor-badge.glitch.me/badge?page_id=hackerhgl)
 
 My stack:
 
