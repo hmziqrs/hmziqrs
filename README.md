@@ -10,20 +10,17 @@ I'm Hamza, a Full Stack Developer from Karachi, Pakistan.
 
 📫 How to reach me: hamza.iqdev@gmail.com
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/rzwnahmd19">
-  <img align="left" alt="Rizwan Ahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/hackerhgl">
+  <img align="left" alt="Hamza's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rizwanahmed19/">
-  <img align="left" alt="Rizwan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/hackerhgl/">
+  <img align="left" alt="Hamza's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/rzwnahmd/">
-  <img align="left" alt="Rizwan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/hackerhgl/">
+  <img align="left" alt="Hamza's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/rizwanahmed19/">
-  <img align="left" alt="Rizwan's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://stackoverflow.com/users/11328245/rzwnahmd">
-  <img align="left" alt="Rizwan's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+<a href="https://www.reddit.com/user/hackerhgl/">
+  <img align="left" alt="Hamza's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hackerhgl.hackerhgl)
