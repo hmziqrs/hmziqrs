@@ -3,12 +3,8 @@
 ## I'm Hamza, a Full Stack Developer with more than four years of experience from Karachi, Pakistan.
 
 - I recently finished working on my <a href="hackerhgl-cv.web.app" href="_blank">web based resume </a>.
-<br />
-🌱 I’m currently learning golang
-<br />
-💬 Ask me about anything, I'm happy to help
-<br />
-📫 How to reach me: hamza.iqdev@gmail.com
+- I am planning to build an real time communication open source project with WebRTC, Socket.IO, GoLang, React Native & React JS.
+- 
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/hackerhgl">
