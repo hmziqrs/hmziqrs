@@ -1,7 +1,7 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=hackerhgl.hackerhgl)
 
 
-## I'm Hamza, a Full Stack Developer with more than four years of experience from Karachi, Pakistan.
+## I'm Hamza, a Full-Stack Developer with more than six years of experience from Karachi, Pakistan.
 
 ### About me
 
