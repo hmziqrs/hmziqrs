@@ -14,11 +14,9 @@
 ### Find me @hmziqrs
 
 <div style="flex:1;display:flex;flex-direction:row;gap:18px;">
-<div style="background-color:rgba(255,255,255,0.7);width:52px;height:52px;border-radius:100%;display:flex;align-items:center;justify-content:center;">
-<a href="https://linkedin.com/in/hmziqrs/" target="_blank">
+<a href="https://linkedin.com/in/hmziqrs/" target="_blank" style="background-color:rgba(255,255,255,0.7);width:52px;height:52px;border-radius:100%;display:flex;align-items:center;justify-content:center;">
   <img align="left" alt="Hamza's LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-</div>
 <div style="background-color:rgba(255,255,255,0.7);width:52px;height:52px;border-radius:100%;display:flex;align-items:center;justify-content:center;">
   <a href="https://x.com/hmziqrs/" target="_blank">
     <img align="left" alt="Hamza's Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.13.0/icons/x.svg" />
