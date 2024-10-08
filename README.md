@@ -12,17 +12,19 @@
 
 ### Find me @hmziqrs
 
+
 <a href="https://linkedin.com/in/hmziqrs/" target="_blank">
-  <img align="left" alt="Hamza's LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Hamza's LinkedIn" width="50px" src="./icons/icons8-linkedin.svg" />
 </a>
 <a href="https://x.com/hmziqrs/" target="_blank">
-  <img align="left" alt="Hamza's Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.13.0/icons/x.svg" />
+  <img align="left" alt="Hamza's Facebook" width="50px" src="./icons/icons8-twitterx.svg" />
 </a>
 <a href="https://reddit.com/user/hmziqrs/" target="_blank">
-  <img align="left" alt="Hamza's Reddit" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Hamza's Reddit" width="50px" src="./icons/icons8-reddit.svg" />
 </a>
 
 
+<br />
 <br />
 <br />
 
