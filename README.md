@@ -1,13 +1,13 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=hmziqrs.hmziqrs)
 
 
-## I'm Hamza from Karachi Pakistan, I am a full-stack engineer with 7+ years of experience.
+## I'm Hamza a full-stack engineer with 7+ years of experience.
 
 ### About me
 
-- I solve complex problems, automate repetitive work and build software.
-- I mostly use Rust, Flutter, ReactJS, NextJS, NodeJS, and PosgtreSQL.
-- Currently, I am working on a few projects, open source blog, and a few other things.
+- I solve complex problems, automate repetitive work, and build software.
+- I mostly use Rust, Flutter, ReactJS, NextJS, NodeJS, and PostgreSQL.
+- I am currently working on a few projects, open source blog, and other things.
 - Check out my <a href="https://hackerhgl-cv.web.app" target="_blank">resume on web</a>.
 
 ### Find me @hmziqrs
@@ -17,7 +17,7 @@
   <img align="left" alt="Hamza's LinkedIn" width="50px" src="./icons/icons8-linkedin.svg" />
 </a>
 <a href="https://x.com/hmziqrs/" target="_blank">
-  <img align="left" alt="Hamza's Facebook" width="50px" src="./icons/icons8-twitterx.svg" />
+  <img align="left" alt="Hamza's X" width="50px" src="./icons/icons8-twitterx.svg" />
 </a>
 <a href="https://reddit.com/user/hmziqrs/" target="_blank">
   <img align="left" alt="Hamza's Reddit" width="50px" src="./icons/icons8-reddit.svg" />
