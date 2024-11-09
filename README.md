@@ -8,7 +8,7 @@
 - I solve complex problems, automate repetitive work, and build software.
 - I mostly use Rust, Flutter, React Native, NextJS, NodeJS, and PostgreSQL.
 - I am working on a few projects, an open-source blog, and other things.
-- Check out my <a href="https://hackerhgl-cv.web.app" target="_blank">resume on web</a>.
+- Check out my <a href="https://cv.hmziq.rs" target="_blank">resume on web</a>.
 
 ### Find me @hmziqrs
 
