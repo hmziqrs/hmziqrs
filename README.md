@@ -1,6 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=hmziqrs.hmziqrs)
-
-## A full-stack engineer with 7+ years of experience.
+## A full-stack engineer with 7+ years of experience. ![](https://visitor-badge.glitch.me/badge?page_id=hmziqrs.hmziqrs)
 
 - I solve complex problems, automate repetitive work, and build software.
 - I mostly use Rust, Flutter, React Native, NextJS, NodeJS, and PostgreSQL.
