@@ -1,28 +1,13 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=hmziqrs.hmziqrs)
 
 
-## I'm Hamza a full-stack engineer with 7+ years of experience.
+## A full-stack engineer with 7+ years of experience.
 
 ### About me
 
 - I solve complex problems, automate repetitive work, and build software.
 - I mostly use Rust, Flutter, React Native, NextJS, NodeJS, and PostgreSQL.
-- I am working on a few projects, an open-source blog, and other things.
-- Check out my <a href="https://cv.hmziq.rs" target="_blank">resume on web</a>.
-
-### Find me @hmziqrs
-
-
-<a href="https://linkedin.com/in/hmziqrs/" target="_blank">
-  <img align="left" alt="Hamza's LinkedIn" width="50px" src="./icons/icons8-linkedin.svg" />
-</a>
-<a href="https://x.com/hmziqrs/" target="_blank">
-  <img align="left" alt="Hamza's X" width="50px" src="./icons/icons8-twitterx.svg" />
-</a>
-<a href="https://reddit.com/user/hmziqrs/" target="_blank">
-  <img align="left" alt="Hamza's Reddit" width="50px" src="./icons/icons8-reddit.svg" />
-</a>
-
+- I am working on a few projects, such as an open-source blog.
 
 <br />
 <br />
